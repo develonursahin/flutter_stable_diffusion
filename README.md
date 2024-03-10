@@ -2,6 +2,10 @@
 
 Bu proje, Flutter kullanılarak geliştirilmiş bir mobil uygulamadır. Stable Diffusion adlı bir lokal sunucu üzerinde çalışan bir modeli kullanarak metin veya resmi işleyip sonuç elde etmeyi amaçlamaktadır.
 
+## Daha Fazla Bilgi
+
+Bu projenin detaylı bir açıklaması için, Medium'da yazdığım [makalemi](https://develonursahin.medium.com/stable-diffusion-ile-flutter-uygulaması-geliştirme-5da16f518e57) okuyabilirsiniz.
+
 ## Proje Yapısı
 
 Proje, BLoC (Business Logic Component) mimarisi ve state management yöntemini kullanarak kodlanmıştır. BLoC, uygulamanın veri akışını yöneten ve UI (User Interface) ile iş mantığı arasındaki bağlantıyı sağlayan bir tasarım desenidir.
